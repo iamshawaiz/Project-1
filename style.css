@@ -49,6 +49,7 @@ h4{
     line-height: 1.5;
 }
 footer{
-    margin-top: 50px 0;
-    text-align: end;
+    margin: 50px 0;
+    display:flex;
+    justify-content:flex-end;
 }
